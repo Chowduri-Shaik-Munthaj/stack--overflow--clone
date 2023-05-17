@@ -1,0 +1,14 @@
+.avatar{
+    position:absolute;
+    right:205px;
+    top:12px;
+    border-radius: 50%;
+    background-color: deepskyblue;
+    text-align: center;
+    text-decoration-color: white;
+    cursor:pointer;
+    font-size:18px;
+    padding: 5px 10px;
+
+
+}
